@@ -1,0 +1,44 @@
+body {
+  background-color: #212121;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+}
+
+a {
+  color: #fff;
+}
+
+.cd-timeline__img {
+  background-color: #616161;
+  box-shadow: none;
+}
+
+.cd-timeline__img img {
+  filter: invert(1);
+}
+
+.cd-timeline__block {
+  border-color: #616161;
+  box-shadow: none;
+}
+
+.cd-timeline__content {
+  background-color: #424242;
+  color: #fff;
+}
+
+.cd-timeline__content p {
+  color: #fff;
+}
+
+.cd-timeline__read-more {
+  color: #fff;
+  border-color: #fff;
+}
+
+.cd-timeline__date {
+  color: #9e9e9e;
+}
