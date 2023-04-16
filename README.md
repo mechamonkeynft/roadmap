@@ -1,3 +1,3 @@
-# fitgames.github.io
+# mechamonkeynft.github.io
 
-Landing page for our roadmap
+Landing page for Mechamonkey Syndicate roadmap
